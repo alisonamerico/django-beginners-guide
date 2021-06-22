@@ -1,7 +1,7 @@
 # A Complete Beginner's Guide to Django
 
-[![Python Version](https://img.shields.io/badge/python-3.6-brightgreen.svg)](https://python.org)
-[![Django Version](https://img.shields.io/badge/django-1.11-brightgreen.svg)](https://djangoproject.com)
+[![Python Version](https://img.shields.io/badge/python-3.9-brightgreen.svg)](https://python.org)
+[![Django Version](https://img.shields.io/badge/django-3.2.4-brightgreen.svg)](https://djangoproject.com)
 
 Code samples from the Django tutorial series.
 
