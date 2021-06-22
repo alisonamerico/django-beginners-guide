@@ -26,7 +26,7 @@ For the complete tutorial series index [click here](https://simpleisbetterthanco
 First, clone the repository to your local machine:
 
 ```bash
-git clone git@github.com:sibtc/django-beginners-guide.git
+git clone git@github.com:alisonamerico/django-beginners-guide.git
 ```
 
 Install the requirements:
